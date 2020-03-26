@@ -1,4 +1,1 @@
-MirciusX
-Falopa ;
-Falopa2;
-kevin capo
+Pagina oficial de MirciusX
