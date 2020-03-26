@@ -1,0 +1,45 @@
+#logo{
+    width: 700px; 
+    height: 700px;
+}
+#mux-logo-mini{
+    color: white;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.welcome-title{
+    text-align: center;
+    color: hsl(249, 95%, 23%);
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+body{
+    background-color: black;
+}
+
+.mux-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.mux-logo-mini{
+    display: block;
+    margin-right: auto;
+    width: 50%;
+}
+
+.img-logo{
+    border-radius: 50%;
+}
+
+.menu-btns{
+    background-color: rgb(13, 0, 128);
+    padding: 10px 10px;
+    text-align: right !important;
+}
